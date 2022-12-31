@@ -1,6 +1,6 @@
-# Telnet Acesso a Computadores
+# Telnet Acesso a Computadores para validar quais serviços ativos(válido):
 
-Protocolo de Rede "TELNET" permite a comunicação em interface de texto.
+Protocolo de Rede **TELNET** permite a comunicação em interface de texto.
 
 É possivel verificar se um serviço ou porta está ativo (válido) em determinado computador.
 
