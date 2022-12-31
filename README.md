@@ -8,7 +8,9 @@ Existe o protocolo **Telnet na porta 23** tanto em Windows e Linux.
 
 O protocolo Telnet não é um protocolo seguro com criptografia de dados.
 
-Exemplo 1 Instalando o Telnet no Linux:
+Exemplo 1:
+
+Instalando o Telnet no Linux.
 
 ```
 └─$ sudo apt install telnet
